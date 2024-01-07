@@ -1,0 +1,5 @@
+{
+    "csharpextensions.useThisForCtorAssignments": false,
+    "csharpextensions.privateMemberPrefix": "_",
+    "dotnet.inlayHints.suppressInlayHintsForParametersThatDifferOnlyBySuffix": false
+}
